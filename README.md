@@ -2,7 +2,7 @@
 Cryptocurrency tracker using ESP32 and OLED display
 
 <div style="width: 60%; height: 60%">
-  ![splash](https://github.com/nkbirenbaum/CryptoTicker/assets/97985843/5d0c9848-c6d0-405a-9894-f3dc25d0e54b)
+    ![splash](https://github.com/nkbirenbaum/CryptoTicker/assets/97985843/5d0c9848-c6d0-405a-9894-f3dc25d0e54b)
 </div>
 
 ![setup mode](https://github.com/nkbirenbaum/CryptoTicker/assets/97985843/000cac14-7a3e-42d1-b39c-6b9fd2df5853)
