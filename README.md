@@ -1,11 +1,11 @@
 # CryptoTracker
 Cryptocurrency tracker using ESP32 and OLED display
 
-![splash](https://github.com/nkbirenbaum/CryptoTicker/assets/97985843/f92da880-fd6b-416f-827e-4ddb1026d687)
+![splash](https://github.com/nkbirenbaum/CryptoTicker/assets/97985843/5d0c9848-c6d0-405a-9894-f3dc25d0e54b)
 
-![setup mode](https://github.com/nkbirenbaum/CryptoTicker/assets/97985843/7394e2b0-bdfe-4cac-81a4-d55808ce97fe)
+![setup mode](https://github.com/nkbirenbaum/CryptoTicker/assets/97985843/000cac14-7a3e-42d1-b39c-6b9fd2df5853)
 
-![price display](https://github.com/nkbirenbaum/CryptoTicker/assets/97985843/45e72159-f8fd-4e66-a02b-62bec23e11af)
+![price display](https://github.com/nkbirenbaum/CryptoTicker/assets/97985843/7a5d977d-d2a4-41d5-a328-eb790d0d0fbb)
 
 # To-do list
 - Add ability to change coin
